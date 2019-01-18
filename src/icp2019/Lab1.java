@@ -3,7 +3,7 @@ package icp2019;
 
 import java.util.Scanner;
 /*
- * @author Mawuenya
+ * @author Mawuenya, Tito Effiong-Akpan
  */
 public class Lab1 {
 	// default constructor 
